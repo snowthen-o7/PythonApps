@@ -58,3 +58,11 @@ Final output:
   <td>A:D:X,B:E:Y,C:F:Z</td>
 </tr>
 </table>
+
+
+## Phone and Email Extractor
+Scans and extracts phone numbers and emails from your clipboard, and changes the contents of the clipboard to only contain the phone numbers and emails found.
+
+
+## Password Strength Tester - WIP
+Will test how strong a password is by measuring complexity.
